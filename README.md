@@ -45,9 +45,18 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0070-climbing-stairs) |
 | [3620-network-recovery-pathways](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3620-network-recovery-pathways) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
