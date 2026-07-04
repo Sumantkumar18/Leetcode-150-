@@ -66,4 +66,20 @@
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0143-reorder-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
