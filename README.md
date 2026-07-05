@@ -11,6 +11,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0222-count-complete-tree-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -85,4 +86,16 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0143-reorder-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
