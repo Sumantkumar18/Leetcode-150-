@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1288-remove-covered-intervals](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0222-count-complete-tree-nodes) |
+## Sorting
+|  |
+| ------- |
+| [1288-remove-covered-intervals](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1288-remove-covered-intervals) |
 <!---LeetCode Topics End-->
