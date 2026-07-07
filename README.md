@@ -10,12 +10,14 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3620-network-recovery-pathways) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0222-count-complete-tree-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3620-network-recovery-pathways) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0143-reorder-list) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
 |  |
 | ------- |
@@ -105,8 +108,13 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1288-remove-covered-intervals) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0001-two-sum) |
+## Greedy
+|  |
+| ------- |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 <!---LeetCode Topics End-->
