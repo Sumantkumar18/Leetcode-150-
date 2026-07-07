@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0070-climbing-stairs) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Memoization
 |  |
 | ------- |
