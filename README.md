@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -83,6 +84,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0143-reorder-list) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Stack
@@ -108,6 +110,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0088-merge-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1288-remove-covered-intervals) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
