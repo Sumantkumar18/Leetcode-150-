@@ -12,6 +12,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1331-rank-transform-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0222-count-complete-tree-nodes) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3620-network-recovery-pathways) |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0070-climbing-stairs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -145,6 +148,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Greedy
 |  |
@@ -158,6 +162,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Enumeration
 |  |
@@ -166,6 +171,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -173,4 +179,12 @@
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
