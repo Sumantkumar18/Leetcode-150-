@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1301-number-of-paths-with-max-score) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sumantkumar18/Leetcode-150-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
